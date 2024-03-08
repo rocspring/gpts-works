@@ -38,7 +38,11 @@ browser extension is used to show Third-party GPTs beside ChatGPT Explore page.
 - [Vercel Storage Postgres](https://vercel.com/docs/storage/vercel-postgres): used for storing data.
 - [Zilliz Cloud](https://cloud.zilliz.com/): used for vector storing and searching
 
-## Quick start
+## Deploy with Vercel
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fall-in-aigc%2Fgpts-works&env=POSTGRES_URL,INDEX_API_BASE_URI,INDEX_API_KEY&envDescription=Create%20your%20Vercel%20Postgres%20DB%20firstly%20before%20set%20POSTGRES_URL%20value.&envLink=https%3A%2F%2Fgithub.com%2Fall-in-aigc%2Fgpts-works%3Ftab%3Dreadme-ov-file%23dependencies&project-name=my-gpts-works&repository-name=my-gpts-works&redirect-url=https%3A%2F%2Fgpts.works&demo-title=GPTs%20Works&demo-description=A%20Third-party%20GPTs%20Store.&demo-url=https%3A%2F%2Fgpts.works&demo-image=https%3A%2F%2Fgpts.works%2Flogo.png)
+
+## Local development
 
 ### Clone project
 
@@ -173,4 +177,9 @@ open `chrome://extensions/`, click `Load unpacked`
 > if this project is helpful to you, buy me a coffee😄
 
 <a href="https://www.buymeacoffee.com/idoubi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=all-in-aigc/gpts-works&type=Date)](https://star-history.com/#all-in-aigc/gpts-works&Date)
+
 
